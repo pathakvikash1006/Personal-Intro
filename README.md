@@ -26,4 +26,4 @@
 ​Project Organization: Learning how to structure a project for GitHub with proper documentation and dependency files.
 
 #​Screenshots of Working Application:  
-​(Note: Please upload your terminal screenshot to GitHub and link it here, or simply refer to the image you have taken of your output.)
+[Terminal Output](Screenshot%20\(45\).png)

@@ -1,4 +1,4 @@
-#Project Overview and Objectives:
+#Project Overview and Objectives:   
 ​The objective of this project is to create a basic interactive Python script that collects user information such as name, age, city, and hobby to display a personalized and friendly welcome message.
 
 #​Setup and Installation Instructions:
@@ -14,10 +14,10 @@
 ​Output Section: Uses the print() function combined with f-strings to merge the variables into a formatted, friendly sentence.
 
 #​Technical Requirements Met:
-​[x] Use input(): Captured user details for name, age, city, and hobby.
-​[x] Use variables: Stored all user inputs in specific variables for later use.
-​[x] Use print(): Displayed a multi-line welcoming message.
-​[x] GitHub Structure: Included README.md, personal_intro.py, and requirements.txt.
+​[1] Use input(): Captured user details for name, age, city, and hobby.
+​[2] Use variables: Stored all user inputs in specific variables for later use.
+​[3] Use print(): Displayed a multi-line welcoming message.
+​[4] GitHub Structure: Included README.md, personal_intro.py, and requirements.txt.
 
 #​What I Learned:
 ​Through this project, I gained hands-on experience in:
